@@ -82,12 +82,14 @@ countToRight = true
 modulate = Color( 0.27451, 0.47451, 1, 1 )
 position = Vector2( 409.35, 680 )
 scale = Vector2( 2, 2 )
+countToRight = false
 
 [node name="LevelCounter" parent="Hud/Text" instance=ExtResource( 7 )]
 modulate = Color( 1, 0.584314, 0.270588, 1 )
 position = Vector2( 1020, 678.975 )
 scale = Vector2( 2, 2 )
 value = 1
+countToRight = false
 
 [node name="LiveCounter" parent="Hud" instance=ExtResource( 8 )]
 modulate = Color( 1, 1, 1, 0.780392 )
