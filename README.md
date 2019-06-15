@@ -1,4 +1,4 @@
-# Spacevaders - Gra mobilna inspirowana Space Invaders
+# Spacevaders - Gra komputerowa inspirowana Space Invaders
 ## Opis gry
 Gra inspirowana Space Invaders, w której sterujemy statkiem kosmicznym elminującym niebezpiecznych kosmitów chcących zniszczyć gracza przy pomocy pocisków. W celu przejścia poziomu gracz musi zniszczyć wszystkich kosmitów, którzy będą przywoływać swoich sprzymierzeńców o zróżnicowanych sposobach ataku. Po przejściu każdego poziomu gracz może ulepszyć jedną z 4 swoich statystyk:
 - szybkość poruszania się,
