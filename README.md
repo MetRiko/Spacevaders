@@ -5,6 +5,7 @@ Gra inspirowana Space Invaders, w której sterujemy statkiem kosmicznym elminuj�
 - szybkość strzelania,
 - wytrzymałość tarcz,
 - liczba punktów życia (z którą gracza będzie zaczynał każdy następny poziom).
+
 Gracz przegra jeżeli straci wszystkie punkty życia bądź zostanie dotknięty przez dowolnego przeciwnika (niezależnie od posiadanych punktów życia). Po przegranej gracz zaczyna grę od pierwszego poziomu.
 
 ## Technologia
